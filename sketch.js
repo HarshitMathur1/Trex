@@ -70,7 +70,7 @@ textStyle(BOLD);
 }
 
 function draw() {
-  background(180);
+  background(250);
   
  
   text("Score: "+ score, 500,50);
